@@ -63,13 +63,13 @@ export default function Weather() {
         </div>
         <small>
           <a
-            href="https://github.com/Michaela298/Vanilla-weather-app"
+            href="https://github.com/Michaela298/weather-react"
             target="_blank"
             rel="noreferrer"
           >
             Open source code
           </a>
-          by Michaela Šimková
+          <span> by Michaela Šimková</span>
         </small>
       </div>
     </div>
