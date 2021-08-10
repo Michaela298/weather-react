@@ -1,12 +1,9 @@
+import Weather from "./Weather";
+
 import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello</h1>
-      <p>How to import axios</p>
-    </div>
-  );
+  return <Weather />;
 }
 
 export default App;
